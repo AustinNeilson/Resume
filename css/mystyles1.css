@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+}
+body{
+    background-color: aliceblue;
+}
+.img-center{
+    display: block;
+    margin: auto;
+}
+p{
+    text-align: center;
+}
+.video-center{
+    display: block;
+    margin: auto;
+}
+.tableauPlaceholder{
+    display: block;
+    margin: auto;
+}
+div.header{
+    color: goldenrod;
+    text-align: center;
+}
+div.mainbody{
+    color: goldenrod;
+}
+div.info{
+    color: goldenrod;
+}
+div.footer{
+    text-align: center;
+    color: goldenrod;
+}
+div.tableauPlaceholder{
+    color: goldenrod;
+}
+a{
+    color: goldenrod;
+}

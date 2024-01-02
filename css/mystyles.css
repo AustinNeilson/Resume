@@ -1,0 +1,25 @@
+.mb-0{
+    color: rgb(119, 119, 210);
+}
+
+.text-primary{
+    color:  rgb(115, 112, 112)!important;
+}
+.navbar{
+    background-color: rgb(119, 119, 210) !important;
+}
+.nav-item{
+    color: rgb(115, 112, 112);
+}
+.subheading-mb-5{
+    color: rgb(115, 112, 112);
+}
+.mb-5{
+    color: rgb(115, 112, 112) !important;
+}
+a{
+    color: rgb(119, 119, 210);
+}
+.social-icons .social-icon:hover {
+    background-color: rgb(119, 119, 210);
+}
